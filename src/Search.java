@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+// Search Class to find the path to destination
 public class Search {
     // DFS search function to find the destination from the starting point
     boolean find(int[][] maze, int x, int y, ArrayList<Integer> path){
